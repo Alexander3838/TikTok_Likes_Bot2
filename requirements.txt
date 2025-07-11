@@ -1,1 +1,4 @@
-pyTelegramBotAPI==4.12.0
+python-telegram-bot==13.15
+flask
+nest_asyncio
+telegram
